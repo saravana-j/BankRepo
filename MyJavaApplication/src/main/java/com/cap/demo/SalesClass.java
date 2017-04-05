@@ -6,6 +6,8 @@ public class SalesClass {
 	
 	public void display(){
 		System.out.println("Sales Class Display Method");
+		System.out.println("Sales Class Display Method duplicate");
+		
 	}
 
 }
